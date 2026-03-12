@@ -27,7 +27,7 @@ matheus = {
     "foco":     ["Redes de Computadores", "Python (em breve 🐍)", "Design"],
     "skills":   ["Photoshop", "Canva", "Lógica de Redes"],
     "status":   "📚 Estudando e evoluindo todo dia",
-    "meta_2025": "Dominar Python e criar meus primeiros projetos"
+    "meta_2026": "Dominar Python e criar meus primeiros projetos"
 }
 ```
 
